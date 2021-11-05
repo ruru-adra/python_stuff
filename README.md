@@ -35,5 +35,8 @@ mafft linnamarin.fasta > aln_lm.fasta
 
 
 #prepare HMM file
+hmmbuild Gal1p.hmm Gal1p.aln.faa
+
+```
 
 
