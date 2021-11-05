@@ -31,6 +31,8 @@ clipkit
 #select gene sequences to be aligned using BLAST etc
 
 #create sequences in .fa format
+mafft linnamarin.fasta > aln_lm.fasta
+
 
 #prepare HMM file
 
