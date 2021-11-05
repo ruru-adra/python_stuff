@@ -21,4 +21,17 @@ pip3 install --upgrade pip
 ```shell
 #software underphyton & anaconda
 biokit
+phykit
+clipkit
+
 ```
+
+```shell
+
+#select gene sequences to be aligned using BLAST etc
+
+#create sequences in .fa format
+
+#prepare HMM file
+
+
