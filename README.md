@@ -13,6 +13,9 @@ pip install XXXxx (software name)
 
 # deactivate virtual environment
 deactivate
+
+#upgrade pip
+pip3 install --upgrade pip
 ```
 
 ```shell
