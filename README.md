@@ -13,8 +13,9 @@ pip install XXXxx (software name)
 
 # deactivate virtual environment
 deactivate
-
 ```
 
+```shell
 #software underphyton & anaconda
 biokit
+```
