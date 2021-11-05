@@ -1,4 +1,5 @@
-``# create virtual environment``
+```shell
+# create virtual environment
 python -m venv .venv
 
 # activate virtual environment
@@ -9,3 +10,5 @@ pip install XXXxx (software name)
 
 # deactivate virtual environment
 deactivate
+
+```
